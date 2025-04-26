@@ -6,12 +6,12 @@ A new Flutter project that provides secure storage functionality for user authen
 
 Auth-Secure-Storage is a Flutter app designed to handle secure user authentication using secure storage techniques. It stores user authentication data in a secure and encrypted storage system to ensure privacy and data integrity.
 
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <img src="images/authsecure1.png" alt= "Image1" width="300" />
   <img src="images/authsecure2.png" alt= "Image2" width="300" />
   
 </div>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; margin-bottom: 20px;">
   <img src="images/authsecure3.png" alt= "Image3"  width="300" />
 </div>
 
