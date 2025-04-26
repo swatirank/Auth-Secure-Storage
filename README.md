@@ -1,6 +1,17 @@
-# auth_secure_storage
+# Auth_Secure_Storage
 
-A new Flutter project.
+A new Flutter project that provides secure storage functionality for user authentication.
+
+## Overview
+
+Auth-Secure-Storage is a Flutter app designed to handle secure user authentication using secure storage techniques. It stores user authentication data in a secure and encrypted storage system to ensure privacy and data integrity.
+
+![App Screenshot](images/authsecure1.png)
+
+![App Screenshot](images/authsecure2.png)
+
+![App Screenshot](images/authsecure3.png)
+
 
 ## Getting Started
 
@@ -15,4 +26,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Auth-Secure-Storage
+## Features
+
+- Securely store user authentication tokens.
+- Use `flutter_secure_storage` for data encryption.
+- Allow easy user login and logout functionality.
+
+![Features Diagram](./images/features-diagram.jpg)
